@@ -23,7 +23,7 @@ This is a Flask web app which predicts fare of Flight ticket.
 
 ## Technology Stack
 HTML, CSS
-Python, Flask, Gunicorn
+Python, Flask, Gunicorn,
 Numpy, Seaborn, Sklearn
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
