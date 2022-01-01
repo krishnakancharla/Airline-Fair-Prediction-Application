@@ -22,7 +22,7 @@ Author: Krishnaditya Kancharla
 This is a Flask web app which predicts fare of Flight ticket.
 
 ## Technology Stack
-HTML, CSS
+HTML, CSS,
 Python, Flask, Gunicorn,
 Numpy, Seaborn, Sklearn
 
